@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Latihan Heading</title>
+</head>
+<body >
+		<h1> ini heading 1</h1>
+		<h2> ini heading 2</h2>
+</body>
+</html>
